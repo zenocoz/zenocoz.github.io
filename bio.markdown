@@ -6,6 +6,8 @@ permalink: /bio/
 
 ......
 
+I am from Italy
+
 
 
 

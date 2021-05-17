@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Bio
 permalink: /bio/
 ---
 
@@ -12,7 +12,7 @@ permalink: /bio/
   
   <br>
   
-  <img class="rect-img" src="_site/assets/node_150w.png" />
+  <img class="rect-img" src="/_site/assets/node_150w.png" />
   <img class="square-img" src="./_site/assets/mongo_150w.png"  />
   <img class="rect-img" src="./_site/assets/react_full_220w.png"  />  
   <img class="square-img" src="./_site/assets/redux_150w.png" />
